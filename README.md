@@ -1,6 +1,6 @@
 # Kalman Drone Tracker
 
-[![CI](https://github.com/Thirumoorthi-360/kalman-drone-tracker/actions/workflows/ci.yml/badge.svg)](https://github.com/Thirumoorthi-360/kalman-drone-tracker/actions/workflows/ci.yml)
+[![CI](https://github.com/Thirumoorthi-360/Thirumoorthi-Signal-Processing-ML-Engineer/actions/workflows/ci.yml/badge.svg)](https://github.com/Thirumoorthi-360/Thirumoorthi-Signal-Processing-ML-Engineer/actions/workflows/ci.yml)
 ![C++17](https://img.shields.io/badge/C%2B%2B-17-blue)
 ![License: MIT](https://img.shields.io/badge/license-MIT-green)
 
@@ -25,8 +25,8 @@ A simulated drone hovers over a crossroads. Its vehicle detector is noisy, misse
 ## Quick start
 
 ```bash
-git clone https://github.com/Thirumoorthi-360/kalman-drone-tracker.git
-cd kalman-drone-tracker
+git clone https://github.com/Thirumoorthi-360/Thirumoorthi-Signal-Processing-ML-Engineer.git
+cd Thirumoorthi-Signal-Processing-ML-Engineer
 cmake -S . -B build
 cmake --build build --config Release
 ctest --test-dir build -C Release        # run the tests
